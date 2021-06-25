@@ -14,8 +14,9 @@ python3 finalProject_test.py  --similarity inner_product --embedding_method MDS 
 * slide
 * Any related document for the project
   * First Install the Package from PyPI
+  ```Python3
     $ pip install scHiCTools
-
+  ```
 ### data
 * example data by the paper
 * Format - .txt
